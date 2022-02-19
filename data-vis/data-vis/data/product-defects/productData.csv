@@ -1,0 +1,55 @@
+batch,flag,product
+20211,good,A
+20211,type 1,A
+20211,type 2,A
+20211,type 3,B
+20211,good,C
+20211,good,C
+20211,good,A
+20211,good,B
+20211,good,A
+20211,good,B
+20211,good,C
+20211,good,A
+20211,type 1,A
+20211,type 2,A
+20211,type 3,B
+20211,good,C
+20211,good,C
+20211,good,A
+20211,good,B
+20211,good,A
+20211,good,B
+20211,good,C
+20211,good,B
+20211,good,C
+20211,good,A
+20211,good,A
+20211,type 2,A
+20211,type 2,B
+20211,type 2,C
+20211,type 3,C
+20211,type 3,A
+20211,type 3,B
+20211,type 3,A
+20211,type 3,B
+20212,good,C
+20212,good,A
+20212,good,A
+20212,good,A
+20213,good,B
+20213,good,C
+20211,good,C
+20211,good,A
+20211,good,B
+20211,good,A
+20212,good,B
+20212,good,C
+20212,good,A
+20212,type 1,B
+20213,type 4,A
+20213,type 4,B
+20213,type 4,D
+20213,type 4,C
+20213,type 4,A
+20213,type 4,B
